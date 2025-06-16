@@ -1,0 +1,16 @@
+body {
+  background-color: #FCEF91;
+}
+
+.parent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background-color: #FB9E3A;
+  padding: 10px 20px;
+  border-radius: 10%;
+}

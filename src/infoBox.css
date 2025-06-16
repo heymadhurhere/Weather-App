@@ -1,0 +1,9 @@
+.InfoBox {
+    text-align: center;
+    
+}
+
+.weather_card {
+    display: inline-block;
+    background-color: #f0f0f0;
+}
